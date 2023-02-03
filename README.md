@@ -10,6 +10,10 @@ Script for establishing a reference proteome of the University of Otago Biochemi
 
 [fetch-proteomes.txt](https://github.com/mouch930/CytcApaf1-sequence-covariation/files/10574664/fetch-proteomes.txt)
 
-Text file containing script used to edit the reference proteome by removing Tunicates, Arthropods, and Nematodes, search against the reference proteome for two iterations, multiple sequence alignments and sorting results. It also contains the code for concatenating and joining sequence alignments. 
+Text file containing script used to edit the reference proteome by removing Tunicates, Arthropods, and Nematodes, search against the reference proteome for two iterations, multiple sequence alignments and sorting results. 
 
 [reference-proteome.txt](https://github.com/mouch930/CytcApaf1-sequence-covariation/files/10574668/reference-proteome.txt)
+
+Text file containing script to join and concatenate cyotchrome c and Apaf-1 multiple sequence alignments
+
+[joinSeqs.txt](https://github.com/mouch930/CytcApaf1-sequence-covariation/files/10575237/joinSeqs.txt)
