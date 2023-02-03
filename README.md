@@ -17,3 +17,15 @@ Text file containing script used to edit the reference proteome by removing Tuni
 Text file containing script to join and concatenate cyotchrome c and Apaf-1 multiple sequence alignments
 
 [joinSeqs.txt](https://github.com/mouch930/CytcApaf1-sequence-covariation/files/10575237/joinSeqs.txt)
+
+Using the human Apaf-1 as a query the Jack Hmmer homology search was done and iterated twice. The second iteration files are avaible in FASTA, aligned FASTA and tab-delimited files:
+Apaf-1-second-iteration.fa
+Apaf-1-second-iteration.afa
+Apaf-1-second-iteration.domtblout
+
+The same process was continued for cytochrome c. FASTA and aligned FASTA outputs were produced. 
+
+Cyc-second-iteration.fa
+Cys-second iteration.afa
+
+
