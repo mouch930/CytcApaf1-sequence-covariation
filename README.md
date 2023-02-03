@@ -8,8 +8,8 @@
 
 #Script for establishing a reference proteome of the University of Otago Biochemistry server
 
-fetch-proteome.txt
+[fetch-proteomes.txt](https://github.com/mouch930/CytcApaf1-sequence-covariation/files/10574648/fetch-proteomes.txt)
 
 #Text file containing script used to edit the reference proteome by removing Tunicates, Arthropods, and Nematodes, search against the reference proteome for two iterations, multiple sequence alignments and sorting results. It also contains the code for concatenating and joining sequence alignments. 
 
-reference-proteome.txt
+[reference-proteome.txt](https://github.com/mouch930/CytcApaf1-sequence-covariation/files/10574653/reference-proteome.txt)
