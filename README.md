@@ -4,7 +4,7 @@ This is the second half of this project to determine if there is any sequence va
 
 To retrieve UniProt KB Metazoan proteomes and upload them onto the University of Otago Biochemistry server the script below was used: Jack Hmmer v3.3.2 was already intalled. 
 
-All script is written and ran on Perl v5.30.0 x86 Linux
+All script is written and ran using Perl v5.30.0 x86 Linux
 
 Script for establishing a reference proteome of the University of Otago Biochemistry server
 
