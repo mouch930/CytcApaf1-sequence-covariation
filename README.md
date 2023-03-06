@@ -8,9 +8,7 @@ All script is written and ran using Perl v5.30.0 x86 Linux
 
 Script for establishing a reference proteome of the University of Otago Biochemistry server
 
-[fetch-proteomes.pl](https://github.com/mouch930/CytcApaf1-sequence-covariation/files/10717467/fetch-proteomes.pl.txt)
-
-[fetch-proteomes.txt](https://github.com/mouch930/CytcApaf1-sequence-covariation/files/10574664/fetch-proteomes.txt)
+fetch-proteomes.pl
 
 Text file containing script used to edit the reference proteome by removing Tunicates, Arthropods, and Nematodes, search against the reference proteome for two iterations, multiple sequence alignments and sorting results. 
 
