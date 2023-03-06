@@ -17,7 +17,7 @@ Text file containing script used to edit the reference proteome by removing Tuni
 
 Text file containing script to join and concatenate cyotchrome c and Apaf-1 multiple sequence alignments
 
-[joinSeqs.txt](https://github.com/mouch930/CytcApaf1-sequence-covariation/files/10575237/joinSeqs.txt)
+joinSeqs.pl
 
 To filter out the Tunicates, Arthropods, and Nematodes from the reference proteome used UniProt taxonomic information to assign the correct information to seach Apaf-1 and cytochrome c paralogs found through jackhmmer searches. File containing all the taxonomic information:
 
