@@ -12,8 +12,7 @@ fetch-proteomes.pl
 
 Text file containing script used to edit the reference proteome by removing Tunicates, Arthropods, and Nematodes, search against the reference proteome for two iterations, multiple sequence alignments and sorting results. 
 
-[reference-proteome.txt](https://github.com/mouch930/CytcApaf1-sequence-covariation/files/10574668/reference-proteome.txt)
-
+reference-proteome.pl
 
 Text file containing script to join and concatenate cyotchrome c and Apaf-1 multiple sequence alignments
 
