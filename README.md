@@ -1,6 +1,23 @@
 # CytcApaf1-sequence-covariation
+This is the second half of this project to determine if there is any sequence vairation within cytochrome c and Apaf-1 between Metazoan species. By determining if there is any sequence covariation of cytochrome c and Apaf-1 between different species we can gain more insight as to why mouse and human cytochrome c have different rates of in vitro caspase activity.
 
-This is the second half of this project to determine if there is any sequence vairation within cytochrome c and Apaf-1 between Metazoan species. By determining if there is any sequence covariation of cytochrome c and Apaf-1 between different species we can gain more insight as to why mouse and human cytochrome c have different rates of in vitro caspase activity. 
+For initial sequence covariance analysis - used jackhmmer webserver
+
+With the original pipeline generated:
+
+The file with the cytochrome c and Apaf-1 alignments received from the jackhmmer webserver. The alignments were joined and concatenated/
+
+cytc-apaf1 joined and cat.fa 
+
+The above file was edited for Gremlin-baker sequence covariance analysis. 
+
+Jalview_alignment_for_covariance.fa
+
+The covariance analysis file above had sequences that were too long to use in Gremlin-baker, so the alignment was truncated to only contain cytochrome c and Apaf-1 WD40 sequences
+
+Jalview_for_covariance_no_CARD_or_NB-ARC_sequence_up_to_607K_removed.fa
+
+There was no sequence covariation when the files listed above were submitted to Gremlin-baker.com. The pipeline was the refined with the aim to get better analysis of the alignment (below).
 
 To retrieve UniProt KB Metazoan proteomes and upload them onto the University of Otago Biochemistry server the script below was used: Jack Hmmer v3.3.2 was already intalled. 
 
